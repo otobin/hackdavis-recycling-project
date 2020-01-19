@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hackdavis-recycle",
+  "private_key_id": "61b15fa71e46a5dc931a6414a3c61cab543ef229",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvr6q5fbR5RHGb\nGLHB4YXnd1F4sCdYH6MPcj6PedgNyhOD61s9B6XGlaAlI73eNJ2FpyTqmz2d1/dw\nNgnZ8XUCAv30qPWq726/ViDlUd6NRDXOBQfiEiWhvoLJHYlWUz729WU8670nQsX8\nU3Rd53deDaHHjKC1xq18TE8lDlFfRZdeC7QVgRy4I+v5zOX+3gTMOSvQ8aJvlVpX\nE1rcynjobpaxsqSCU+PuiV0U9UIxUw1SfT/UAnb4mx9yfm5DRQdHmIuHlwsf8Fw+\nVd1fWIsVFKjXHnWmxyZWRaC9ayK+ByTxb4ONFgyjpqfkRt7PpYRgOPB5Dk84KFjA\nedI8NZVdAgMBAAECggEAG+tv10CZ4Le20i4Peb9MV2eH5AUii4ejkz3VoVl8s1xM\n06cgfcdsWe3HYH+YmeqEqgvQ+xOmrCH5KbT8xczwilxNXYdIW1znnbKjUa48Dvkr\nD82O3ieCIX00LZ/rBnP+SqLe7tqL2eRrsFjW4mF5f9HsxtibZafoRBugbEQlPF2A\nWTEADoXoQ4ckb8NRUFdxM8e9c8W1CdR9bjGBN2gnHkaAiwJq8ximri8iCQs1q802\nlTrcsV2HtuLpg3Dcb0nWTWd4TtTz6L+hYRbqee9tB6gjQEmlmk1YiiDvVurWQnC1\n69kM/3Fw11GUY9LpmG8Rz3QDQW1Wh9VrMB2wCOSUpQKBgQDgK9UxKS2yVC1ZodpR\nkncaGqfaxQ0yTCaiW/+z+CGMiv92cl+rI4KtEwUIdvJzdIS9IegqRaJ/Lp52mEIg\nEPjmX+mHiE9IyKMfNHtEbujYclVC9TA712CvgRVmiQxKBXHIa6Y/L577FjqEwjE9\nczVlz+u1bZT+p9eHvRlc2uLFqwKBgQDIoYCW2DhoUKhu0+9PCuyLZEotMkH4JoqJ\naNoy1DTxOKWyqE5UWkefDk27rTICD2W3V0Ke1Fk03CLY0ubLgFT8xD63i9JrwNWt\nsfkvfrUWejYSeO13buzfA/PMYpOQ8Nj/GunQjpCmN8BBxj8WG3T0pFz+WJ2ezCT9\nan4fbzh5FwKBgQCoNvwhib7qpFPrgJKsx3VsNzhh56ABcDdFejekuruiFOOh5C15\n5Im4ih8qvOcuT+8TZZAruFk5iqgKYjKskU/Uv4Aj3dtwyG3vipg9P+SmFxV3yzlI\njlPVHs4KRSjdmrxJIs57d6aaz5FV8cq1S/Bz19QOLo6xkQ0gpHuVvAKTRQKBgQC/\nbCAlTD1dgf+CZqGAd/rC8Dg5sSbyHcu2WR0+u+ubb6HguOarYsvM/Te7Zf89qfUx\nnYcJxa8rWRHCcE8WQOZVmOQB+d0VRBJbvF/1Kd6biJUIwOpJNsO38KxvCGqlMrbH\nh6UogK2Qecbsurq8XAwV0rCLWH9i4II2a6HUWii2lwKBgHD53gOUHtFMh6dXXqGk\nh/nJGPxjnPyKbRL/jc6Qof5RCFcEjoQpz/ya3ejV9PVqsZ0b8YMj13VOXnsEAx9X\n62xixCoy03QWLmxfN+FuMOYP4qyep2Xq+ygVVkorbWMjQ3KBxbHCsw6BV7gBPlTu\nyzMdLFy74FywDlC7CGTMHTva\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackdavis-recycle@hackdavis-recycle.iam.gserviceaccount.com",
+  "client_id": "100966903595085191609",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackdavis-recycle%40hackdavis-recycle.iam.gserviceaccount.com"
+}
